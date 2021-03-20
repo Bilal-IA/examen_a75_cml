@@ -14,7 +14,6 @@ import mlflow.sklearn
 import logging
 logging.basicConfig(level=logging.WARN)
 logger = logging.getLogger(__name__)
- 
 
 def eval_metrics(actual, pred):
     accuracy = metrics.accuracy_score(actual, pred)
