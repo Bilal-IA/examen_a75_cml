@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bilal/Documents/AI-AEC/A57%20Mise%20en%20place%20%C3%A9cosyst%C3%A8me%20d%27IA/Bilal_Khomri_A57_pratique/mlruns/1/8dcaa30245e44d348a1d87754da36b7f/artifacts
+end_time: 1616197892500
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 8dcaa30245e44d348a1d87754da36b7f
+run_uuid: 8dcaa30245e44d348a1d87754da36b7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616197892487
+status: 3
+tags: []
+user_id: bilal
